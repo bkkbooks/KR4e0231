@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0231/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0231_WYG_000-1a, image: WYG1295/WYG1295-0001a.png}
+body:
+  text: 學古緒言别集類五明提要臣等謹案學古緒言二十五卷明婁堅撰堅字子柔長洲人隆萬間貢生早從歸有光游明史文苑傳附載有光傳中稱其與唐時升程嘉燧號練川三老又與時升嘉燧及李流芳號嘉定四先生然嘉燧以依附錢謙益得名本非端士核其所作與三人如蒹葭倚玉未可同稱至三人之中時升流芳雖均得有光之傳而能融㑹師說以成一家言者又當以堅為冠蓋明之末造太倉歷下餘焰猶張公安竟陵新聲屢變文章衰敝莫甚斯時堅以鄉曲儒生獨能支拄頺瀾延古文之一派其文沿溯八家而不勦襲其面貌和平安雅能以真朴勝人亦可謂永嘉之末得聞正始之音矣王士禎居易録嘗稱其長慶集序以為真古文今觀是集大抵具有古法不但是篇士禎特偶舉其一也乾隆四十五年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:3da282784b06f16458696710ed42627a61b1963a9893f61da0545f80251d3ec2
+metadata:
+  title: 學古緒言
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:27:06.816112'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0231/KR4e0231_000.txt
+hash: sha256:747322025641c3b6f650a7a2beab8240909a15780138e6c86c91eb9fa2e9c816
